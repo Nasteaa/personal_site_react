@@ -1,0 +1,42 @@
+old background color #d4e2d4;
+
+==============================================================
+
+Work.js
+
+<div className='cards'>
+  <h1>Projects I've built!</h1>
+  <div className='cards__container'>
+    <div className='cards__wrapper'>
+      <ul className='cards__items'>
+        <CardItem 
+        href='https://meow-meow-meow-chat.herokuapp.com/'
+        src='images/img-meow-chat.png'
+        text='Python | Flask | Jinja | PostgreSQL
+        Project inspired by twitter but made with cats!'
+        label='Meow Chat'
+        path='/Portfolio'
+        />
+        <CardItem 
+        href='https://meow-meow-meow-chat.herokuapp.com/'
+        src='images/img-meow-chat.png'
+        text='Python | Flask | Jinja | PostgreSQL
+        Project inspired by twitter but made with cats!'
+        label='Meow Chat'
+        path='/Portfolio'
+        />
+        <CardItem 
+        href='https://meow-meow-meow-chat.herokuapp.com/'
+        src='images/img-meow-chat.png'
+        text='Python | Flask | Jinja | PostgreSQL
+        Project inspired by twitter but made with cats!'
+        label='Meow Chat'
+        path='/Portfolio'
+        />
+      </ul>
+    </div>
+  </div>
+</div> 
+
+==============================================================
+

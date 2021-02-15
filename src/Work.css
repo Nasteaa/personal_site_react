@@ -1,0 +1,23 @@
+body {
+  display: flex;
+  text-align: center;
+}
+
+.work_container {
+  display: flex;
+  justify-content: center;
+  height: 100%;
+  width: 100%;
+  background-color: #dce8e5;
+  
+}
+
+.work_container > h2 {
+  margin-top: 3rem;
+  font-family: Avenir;
+  color: rgb(86, 94, 97);
+}
+
+.work_container {
+  
+}
