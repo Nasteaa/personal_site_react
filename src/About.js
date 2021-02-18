@@ -15,7 +15,8 @@ function About() {
           I graduated from Rithm School based in San Francisco focused on Web Development and am ready to change the world!
 
         </p>
-        <p>If you are interested in seeing my past work for 3D</p>
+        <p>If you are interested in seeing my past work for 3D: </p>
+        <a href="https://www.sanghosuh.com" target='_blank'>www.sanghosuh.com</a>
       </div>
     </div>
   );

@@ -36,6 +36,7 @@ h1 {
 .cards__items {
   margin-top: 0;
   margin-bottom: 24px;
+  border-radius: 10px;
 }
 
 .cards__item {
